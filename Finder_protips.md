@@ -28,7 +28,7 @@ System-wide preferences can be changed via the Apple menu.
 The first thing I usually do on a new Mac is to remove all bundled Applications from the Dock. Hold the **option** key while clicking each Dock icon, then Options..., then "Remove from Dock".
 
 - Position the Dock on the left of the screen to maximize vertical space. 
-- Add your favorite applications like Terminal and Activity Viewer to my Dock for easy access. 
+- Add your favorite applications like Terminal and Activity Viewer to the Dock for easy access, and so you can drag files right onto the Dock icon to open them. 
 
 **Protip:** You can drag the **title bar** of a Finder window to the Terminal icon in the Dock to open that directory on the command line. Similarly, if you are already on the command line, type `open .` to view your current location in the Finder.
  
