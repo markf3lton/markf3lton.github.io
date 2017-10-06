@@ -21,7 +21,7 @@ Change Finder-specific preferences via the Finder menu.
 
 ## Dock preferences
 
-System-wide preferences via the Apple menu.
+System-wide preferences can be changed via the Apple menu.
 
 ![Apple menu > System Preferences...](images/system_preferences_and_about_this_mac.png)
 
