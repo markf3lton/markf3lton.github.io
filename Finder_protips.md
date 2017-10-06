@@ -46,7 +46,7 @@ A lot of other menu bar options are set using System Preferences. For example yo
 
 ## Terminal preferences
 
-Many developers swear by iTerm2, but Terminal gets the job done as well.
+Many developers swear by iTerm2, but Terminal gets the job done.
 
 ![](images/terminal_default.png)
 
