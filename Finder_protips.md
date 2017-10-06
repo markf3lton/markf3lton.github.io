@@ -50,7 +50,9 @@ Many developers swear by iTerm2, but Terminal gets the job done.
 
 ![](images/terminal_default.png)
 
-You can change the default profile, and set a preferred font size, window width, and height. Menlo is included with Macs and it is good monospaced font for the command line. Microsoft Consolas is one of the best command line fonts but [you may have to download it](http://ikato.com/blog/how-to-install-consolas-font-on-mac-os-x.html). 
+You can change the default profile, and set a preferred font size, window width, and height. 
+
+The Menlo font is included with all Macs and it is good monospaced font for the command line. Microsoft Consolas is one of the best command line fonts, but [you may have to download it](http://ikato.com/blog/how-to-install-consolas-font-on-mac-os-x.html). 
 
 ## Miscellaneous
 
