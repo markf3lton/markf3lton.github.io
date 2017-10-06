@@ -38,11 +38,11 @@ I like to show the volume indicator in the menu bar.
 
 ![](images/volume_in_menu_bar.png)
 
-A lot of menu bar options are set using System Preferences. For example you can show the current Date & Time in your menu bar.
+**Protip:** Press the **option** key when you click on the volume icon in your menu bar to adjust your audio inputs/outputs.  
+
+A lot of other menu bar options are set using System Preferences. For example you can show the current Date & Time in your menu bar.
 
 ![](images/menu_bar_clock.png)
-
-**Protip:** Press the **option** key when you click on the volume icon in your menu bar to adjust your audio inputs/outputs.  
 
 ## Terminal preferences
 
